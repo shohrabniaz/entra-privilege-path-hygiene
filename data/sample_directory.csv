@@ -1,0 +1,7 @@
+upn,enabled,roles,groups,is_admin_upn
+admin.daily@lab.example,True,Global Administrator,SG-AllStaff,False
+breakglass1@lab.example,True,Global Administrator,,True
+helpdesk@lab.example,True,User Administrator,SG-Helpdesk,False
+joiner@lab.example,True,,SG-AllStaff;SG-Privileged-Admins,False
+leaver@lab.example,False,,SG-Privileged-Admins,False
+user1@lab.example,True,,SG-AllStaff,False
